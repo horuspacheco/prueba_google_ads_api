@@ -1,0 +1,17 @@
+{
+  "name": "pruebas-google-ads-api",
+  "version": "1.0.0",
+  "description": "pruebas para la libreria de google ads para nodejs (creacion de cuenta, login y reportes)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "google-ads-api": "^2.2.0",
+    "googleapis": "^40.0.0",
+    "simple-oauth2": "^2.2.1"
+  }
+}
